@@ -1,0 +1,43 @@
+html {
+    font-size: 10px; /* px は「ピクセル」 (pixels) の意味。ベースフォントサイズは 10 ピクセルの高さになった */
+    background-color: #eac7ed;
+    font-family: 'Yusei Magic', sans-serif; 
+}
+p {
+    color: rgba(108, 30, 210, 0.968);
+    width: 500px;
+    border: 1px solid black;
+    
+  }
+  h1 {
+    margin: 0;
+    padding: 20px 0;
+    text-shadow: 3px 3px 1px rgb(235, 135, 255);
+  }
+  h1 {
+    color: rgba(52, 6, 113, 0.968);
+    font-size: 60px;
+    text-align: center;
+  }
+  p,
+  li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+  }
+  img {
+    display: block;
+    margin: 0 auto;
+  }
+  a {
+    font-size: 16px;
+    text-align: center;
+  }
+
+  body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #ffffff;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+  }
